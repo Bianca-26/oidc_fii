@@ -4,7 +4,7 @@
 
 This project demonstrates the integration of OpenID Connect (OIDC) between AWS and GitHub for secure, automated infrastructure deployment using Terraform. The project deploys a simple web application, along with a monitoring stack consisting of Prometheus, Grafana, Loki, and Promtail for observability, and Locust for load testing.
 
-The infrastructure is defined using Terraform, and the deployment is automated via a GitHub Actions workflow that leverages OIDC for authentication with AWS, eliminating the need for long-lived credentials.
+The infrastructure  is defined using Terraform, and the deployment is automated via a GitHub Actions workflow that leverages OIDC for authentication with AWS, eliminating the need for long-lived credentials.
 
 ## Architecture
 
